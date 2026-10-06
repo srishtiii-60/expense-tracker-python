@@ -1,5 +1,5 @@
 # Expense Tracker
-A Python CLI app to track daily expenses with file handling.
+A Python CLI app to track daily expenses with file handling and category-wise summaries.
 
 ## Features
 - Add expense (amount, category, date)
